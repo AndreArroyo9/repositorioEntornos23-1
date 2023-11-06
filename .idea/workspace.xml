@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="222d8fce-3593-441e-9e50-97e64cf5ec76" name="Changes" comment="Pruebas rama1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fichero1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fichero1.txt" afterDir="false" />
-    </list>
+    <list default="true" id="222d8fce-3593-441e-9e50-97e64cf5ec76" name="Changes" comment="Pruebas rama1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Andre/ED/repositorioEntornos23-1"
+    "last_opened_file_path": "D:/Andre/ED/repositorio-entornos-23"
   }
 }]]></component>
   <component name="RunManager">
